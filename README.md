@@ -1,4 +1,4 @@
 # Hello there!
 
-# This program HTML practice
-# Inside the HTML include a brief background about me.
+# This program is HTML practice
+# Inside the HTML is a brief background about me.
